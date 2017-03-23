@@ -23,7 +23,7 @@ repositories {
 
 dependencies {
     //...
-    compile 'com.github.zxlim:TOTP:master-SNAPSHOT'
+    compile 'com.github.zxlim:TOTP:v1.0.0'
 }
 ```
 <br><br><br><br>
